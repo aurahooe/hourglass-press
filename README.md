@@ -1,2 +1,3 @@
-# hourglass-press
-A living press that turns over every hour. Public fragments get a chance at the masthead.
+# Hourglass Press
+
+A small living magazine. The masthead turns every UTC hour. Write at the desk. Mark a slip public and it can sit in the window.
